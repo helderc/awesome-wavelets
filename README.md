@@ -4,6 +4,8 @@ A curated list of awesome papers/tutorials on Wavelets **theory** and **signal p
 
 ## This list is still under construction
 
+## Tutorials
+- [A Practical Guide to Wavelet Analysis (1998)](http://dx.doi.org/10.1.1.28.1738)
 
 ## Contribution
 
