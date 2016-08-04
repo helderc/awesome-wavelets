@@ -5,10 +5,10 @@ A curated list of awesome papers/tutorials on Wavelets **theory** and **signal p
 ## This list is still under construction
 
 
-### Contribution
+## Contribution
 
 Please, feel free to send [pull requests](https://github.com/helderc/awesome-wavelets/pulls) or email (heldercro@gmail.com) to add links.
 
-### License
+## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
