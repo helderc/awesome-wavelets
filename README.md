@@ -18,7 +18,8 @@ A curated list of awesome papers/tutorials on Wavelets **theory** and **signal p
 
 
 ## Books
-
+- [A Wavelet Tour of Signal Processing (2008) - S. Mallat](https://www.ceremade.dauphine.fr/~peyre/wavelet-tour/)
+- [Conceptual Wavelets in Signal Processing (2009) - D. Lee Fugal](http://www.conceptualwavelets.com/)
 
 ## Contribution
 
