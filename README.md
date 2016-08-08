@@ -17,12 +17,12 @@ A curated list of awesome papers/tutorials on Wavelets **theory** and **signal p
 
 
 ## Papers
-- [Wavelets and Subband Coding (2007) - M. Vetterli, J. Kovačević](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.459.2706)
+- Wavelets and Subband Coding (2007) - M. Vetterli, J. Kovačević [[CiteSeerX]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.459.2706)
 
 
 ## Tutorials
 - A Really Friendly Guide to Wavelets (1999) - C. Valens [[CiteSeerX]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.34.29) [[Mirror]](https://app.box.com/s/xft36gdixmpfeiwms8bp2ds014ufumue)
-- [A Practical Guide to Wavelet Analysis (1998) - C. Torrence , G. P. Compo](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.28.1738)
+- A Practical Guide to Wavelet Analysis (1998) - C. Torrence , G. P. Compo [[CiteSeerX]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.28.1738)
 
 
 ## Presentations
