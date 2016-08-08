@@ -23,7 +23,10 @@ A curated list of awesome papers/tutorials on Wavelets **theory** and **signal p
 ## Tutorials
 - A Really Friendly Guide to Wavelets (1999) - C. Valens [[CiteSeerX]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.34.29) [[Mirror]](https://app.box.com/s/xft36gdixmpfeiwms8bp2ds014ufumue)
 - A Practical Guide to Wavelet Analysis (1998) - C. Torrence , G. P. Compo [[CiteSeerX]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.28.1738)
-
+- Basics of Wavelets (2006) - Mark?? [[Mirror]](https://app.box.com/s/e0xanah11cpwlwrbzw29x471z4ww6woa)
+- The Wavelet Tutorial (1999) - Robi Polikar [[Webpage]](http://users.rowan.edu/~polikar/WAVELETS/WTtutorial.html) [[PDF Mirror]](https://app.box.com/s/if1tggw1ys4k0t7xitz4qvkzg59t7k02)
+- Wavelet for Kids (1991) - B. Vidakovic, P. Mueller [[CiteSeerX]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.70.54) [[Mirror]](https://app.box.com/s/zgk5lhc9ff96i5wvv9xlyahor6sd7shr)
+- Wavelets, their friends, and what they can do for you (2004) - M. C. Pereyra, M. J. Mohlenkamp [[Mirror]](https://app.box.com/s/dqv04l3nc38m9onfizndrrmwdgah02s3)
 
 ## Presentations
 
